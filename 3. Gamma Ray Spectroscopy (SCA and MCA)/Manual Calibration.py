@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 from prettytable import PrettyTable
 
 # --- Input Data ---
-x = np.array([662.399,355.829,1171.402,1335.363])
-y = np.array([298.9051,170.7242,516.2521,587.5273])
+y = np.array([662.399,355.829,1171.402,1335.363])
+x = np.array([298.9051,170.7242,516.2521,587.5273])
 n = len(x)
 
 # --- Data Table ---
